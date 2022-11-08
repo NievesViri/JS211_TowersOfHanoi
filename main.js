@@ -52,8 +52,11 @@ const isLegal = (startStack, endStack) => {
 };
 
 // What is a win in Towers of Hanoi? When should this function run?
-const checkForWin = () => {
+const checkForWin = (startStack, endStack) => {
   // Your code here
+  if (stacks[(endStack, startStack)]) a[""], b[""], c[(4, 3, 2, 1)];
+
+  return true;
 };
 
 // When is this function called? What should it do with its argument?
